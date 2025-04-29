@@ -9,7 +9,7 @@ function About() {
           A1 Reno's Pro is your trusted partner for interior renovations. With over 7 years of experience, we specialize in transforming homes with exceptional craftsmanship and personalized service.
         </p>
         <p className="text-lg max-w-3xl mx-auto">
-          Whether it's a full home makeover or a single-room upgrade, we work closely with you to ensure every detail aligns with your vision.
+          Whether it's a Full home makeover or a single-room upgrade, we work closely with you to ensure every detail aligns with your vision.
         </p>
       </div>
     </section>
